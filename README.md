@@ -1,5 +1,5 @@
 <p align="center"> 
-<img  src="https://github.com/kubratorun/job-platform/assets/55465014/3e15cd5b-464b-4563-afa0-8eb22a60f43b" height="450rem">
+<img width="1040" alt="Ekran Resmi 2024-06-30 01 01 53" src="https://github.com/kubratorun/job-platform/assets/55465014/f24f7eb6-b3e5-4fcb-a6ba-b0525c3f57a7">
 
 </p>
 
